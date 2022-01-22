@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# mypage
-=======
+
 # mypage
 
 ## Project setup
